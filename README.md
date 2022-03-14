@@ -22,6 +22,4 @@ OPTIONS:
     -i, --input <INPUT>          The path to the input file
     -o, --output <OUTPUT>        The name of the output file
     -w, --width <WIDTH>          The width of a tile
-    -x, --x-offset <X_OFFSET>    x-axis offset into the image to begin slicing [default: 0]
-    -y, --y-offset <Y_OFFSET>    y-axis offset into the image to begin slicing [default: 0]
 ```
